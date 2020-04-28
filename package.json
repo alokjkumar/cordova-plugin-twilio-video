@@ -9,5 +9,8 @@
     ],
     "engines": {},
     "main": "www/twiliovideo.js",
-    "typings": "typings/twiliovideo.d.ts"
+    "typings": "typings/twiliovideo.d.ts",
+    "dependencies": {
+        "cordova": "^9.0.0"
+    }
 }
