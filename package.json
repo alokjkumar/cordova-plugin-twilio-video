@@ -9,5 +9,5 @@
     ],
     "engines": {},
     "main": "www/twiliovideo.js",
-    "types": "typings/twiliovideo.d.ts"
+    "typings": "typings/twiliovideo.d.ts"
 }
