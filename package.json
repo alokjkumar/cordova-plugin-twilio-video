@@ -7,5 +7,7 @@
         "android",
         "ios"
     ],
-    "engines": {}
+    "engines": {},
+    "main": "www/twiliovideo.js",
+    "types": "typings/twiliovideo.d.ts"
 }
