@@ -1,4 +1,4 @@
-var exec = require('cordova');
+require('cordova');
 
 var TwilioVideo = function() {};
 
